@@ -45,7 +45,7 @@ export default function Footer() {
             <h4 className="font-semibold text-[#f0810e] text-sm mb-4">Contact</h4>
             <ul className="space-y-2.5 text-slate-500 text-white text-xs">
               <li>tyhsolutions@gmail.com</li>
-              <li>www.tyhsolutions.com</li>
+              <li>https://tyhsolutions.vercel.app/</li>
               <li>India</li>
             </ul>
           </div>
