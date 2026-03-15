@@ -52,7 +52,7 @@ export default function Contact() {
             <div className="space-y-4">
               {[
                 { icon: "📧", label: "Email", value: "tyhsolutions@gmail.com" },
-                { icon: "🌐", label: "Web", value: "www.tyhsolutions.com" },
+                { icon: "🌐", label: "Web", value: "https://tyhsolutions.vercel.app/" },
                 { icon: "📍", label: "Based in", value: "India" },
               ].map((item, i) => (
                 <div key={i} className="flex items-center gap-4">
