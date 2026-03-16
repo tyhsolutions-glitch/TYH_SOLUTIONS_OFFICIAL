@@ -17,7 +17,7 @@ export default function Products() {
             Built & Shipped
           </h2>
           <p className="mt-4 text-slate-600">
-            Our first live product — a complete hotel management system, now running in production.
+            Our first live product, a complete hotel management system, now running in production.
           </p>
         </div>
 
