@@ -42,7 +42,7 @@ export default function Contact() {
             <h2 className="text-3xl sm:text-4xl md:text-5xl font-black text-[#031952] leading-tight mb-6">
               Let's build
               <br />
-              something together.
+              your solution together.
             </h2>
             <p className="text-slate-400 text-sm sm:text-base mb-10">
               Have a project in mind? A student deadline approaching? 
